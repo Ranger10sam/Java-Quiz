@@ -74,4 +74,5 @@ public class Questions {
     public void setAnswer(String answer) {
         this.answer = answer;
     }
+
 }
